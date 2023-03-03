@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "empolyees": [
+    {
+      "firstName": "RAHUL",
+      "lastName": "YADAV",
+      "email": "rahulyadav.ry245@gmail.com",
+      "dob": "2023-03-13T18:30:00.000Z",
+      "gender": "",
+      "education": "Graduate",
+      "company": "google",
+      "experience": "2",
+      "package": "12",
+      "id": 5
+    }
+  ]
+}
